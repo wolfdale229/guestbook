@@ -1,0 +1,12 @@
+ul.messages {
+    list-style: none;
+}
+ul.messages li {
+    padding: 0.5em;
+    border-bottom: 1px dotted #ccc;
+}
+ul.messages li:last-child {
+    border-bottom: none;
+}
+li time {
+}
